@@ -1,6 +1,6 @@
 # Python Image Generator using API
 
-This repository provides a Command Line Tool using `click` to allow basic image generation directly from the command line. Images will be saved locally as a png in a specified directory, defaults to `images`, along with the prompt used to generate each image in a separate text file.
+This repository provides a Command Line Tool using `click` to allow basic image generation directly from the command line. Images will be saved locally as a png in a specified directory, defaults to `images`, along with the prompt used to generate each image in a separate text file. **ALL IMAGES IN THIS REPOSITORY ARE GENERATED USING AI**
 
 To generate a new image use the following command:
 ```
